@@ -42,7 +42,7 @@ Installation
 
 .. code:: bash
 
-    pip install git+https://github.com/arraiyopensource/torchgeometry
+    pip install git+https://github.com/Shashvatb/torchgeometry
 
 Quick Usage
 ===========
